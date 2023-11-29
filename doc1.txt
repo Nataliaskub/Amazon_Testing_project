@@ -1,2 +1,4 @@
 name = "Natalia"
+age = 45
 print(name)
+print(age)
