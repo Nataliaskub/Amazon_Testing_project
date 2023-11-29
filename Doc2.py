@@ -1,4 +1,4 @@
-mport random
+import random
 import time
 from selenium import webdriver
 from faker import Faker
