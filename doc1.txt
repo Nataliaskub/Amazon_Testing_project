@@ -1,6 +1,0 @@
-name = "Natalia"
-num1 = 10
-num2 = 12
-num3 = 333
-print(name)
-print(num1 + num2 * num3)
