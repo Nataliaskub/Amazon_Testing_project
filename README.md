@@ -1,6 +1,6 @@
 
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEXsWZDZ_ze_rELgdRYwsNU24CYqIcJRxpdQ&amp;s" class="sFlh5c FyHeAf" alt="A very brief history of Amazon: the everything store" jsname="JuXqh" style="max-width: 1920px; width: 402px; height: 226px; margin: 0px; position: absolute; visibility: hidden;" data-ilt="1728498555977">
+<img fetchpriority="high" width="1200" height="686" src="https://www.techopedia.com/wp-content/uploads/2024/09/Apple-Stock-Split.jpg" alt="Apple Stock Split" decoding="async" srcset="https://www.techopedia.com/wp-content/uploads/2024/09/Apple-Stock-Split.jpg 1200w, https://www.techopedia.com/wp-content/uploads/2024/09/Apple-Stock-Split-300x172.jpg 300w, https://www.techopedia.com/wp-content/uploads/2024/09/Apple-Stock-Split-1024x585.jpg 1024w, https://www.techopedia.com/wp-content/uploads/2024/09/Apple-Stock-Split-768x439.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px">
 
 
 
