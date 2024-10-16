@@ -6,7 +6,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=300000&size=21&multiline=true&width=700&lines=WELCOME+TO+AMAZON+TESTING+PROJECT!)](https://git.io/typing-svg)
 
-🚀 In this repository, our team of dedicated Software QA professionals is on a mission to ensure the quality and reliability of the [AMAZON](https://www.amazon.com/) website through comprehensive testing.
+🚀 In this repository, our team of dedicated Software QA professionals is on a mission to ensure the quality and reliability of the [APPLE](https://www.apple.com/) website through comprehensive testing.
 
 🛰️ Join us in our journey as we strive to maintain the highest standards for this invaluable resources.
 ## 🚀 Our Team in LinkedIn
@@ -14,8 +14,7 @@
 <code><img width="1%" src="https://github.com/user-attachments/assets/d8634330-234a-4e0e-b163-b8859a1b66bf"></code>
 _[Natalia Skubii](https://www.linkedin.com/in/natalia-skubii/)_
 
-<code><img width="1%" src="https://github.com/user-attachments/assets/d8634330-234a-4e0e-b163-b8859a1b66bf"></code>
-_[Yuliia Reshetylo](https://www.linkedin.com/in//)_
+
 
 
 ### Technology Stack
