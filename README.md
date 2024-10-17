@@ -6,7 +6,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=300000&size=21&multiline=true&width=700&lines=WELCOME+TO+APPLE+TESTING+PROJECT!)](https://git.io/typing-svg)
 
-🚀 In this repository, I of dedicated Software QA professionals is on a mission to ensure the quality and reliability of the [APPLE](https://www.apple.com/) website through comprehensive testing.
+🚀 In this repository, I of dedicated Software QA professionals is on a mission to ensure the quality and reliability of the [Apple](https://www.apple.com/) website through comprehensive testing.
 
 🛰️ Join me in my journey as I strive to maintain the highest standards for this invaluable resources.
 ## 🚀 I in LinkedIn
